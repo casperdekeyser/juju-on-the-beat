@@ -23,6 +23,7 @@ jobs:
 
       - name: npm install and run
         run: |
+          cd ccl-juju/
           npm install
           npm run start --if-present
 
