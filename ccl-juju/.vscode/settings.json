@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c73d0fa4-7d1e-4cdf-ad8d-e998c05c9475/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/testing-esj-for-juju",
+    "appService.deploySubpath": "."
+}
